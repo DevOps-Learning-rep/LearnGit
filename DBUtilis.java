@@ -1,2 +1,2 @@
 to test basic git 
-git commands are relly important 
+git commands are really important 
